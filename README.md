@@ -12,7 +12,7 @@
 
 
 <br>
-<h2 align="left">Social Networks</h2>
+<h2 align="left">Contacts</h2>
 
 [![LinkedIn][1.2]][1] [![Artstation][2.2]][2] [![Instagram][3.2]][3]
 
