@@ -1,9 +1,16 @@
-##Justas Viškelis
+<h1 align="center">Hi 👋, I am Justas Viškelis</h1>
 Unreal engine cinematics, environment, automotive creator, real time cloth simulations.
 
 <br>
-
-<img align='center' height='300' style="margin-left:20px" src='assets/UE_Logo.gif'>
+<h2 align="center">I am working with:</h2>
+<p align="center">
+- Unreal engine cinematics
+- Environment
+- Automotive animation
+- Real time cloth simulations
+</p>
+<br>
+<img align='center' height='300' src='assets/UE_Logo.gif'>
 
 <br>
 
