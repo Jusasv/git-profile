@@ -1,13 +1,13 @@
-<h1 align="left">Hi 👋, I am Justas Viškelis</h1>
+<h1 align="left">Hi, I am Justas Viškelis</h1>
 <h2 align="left">I am working with</h2>
 <p align="left">
-Unreal engine cinematics
+🎬 Unreal engine cinematics
 <p align="left">
-Environment
+⛰️ Environment
 <p align="left">
-Automotive animation
+🏎️ Automotive animation
 <p align="left">
-Real time cloth simulations
+🧥 Real time cloth simulations
 
 
 
