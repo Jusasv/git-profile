@@ -5,10 +5,14 @@ Unreal engine cinematics, environment, automotive creator, real time cloth simul
 <h2 align="center">I am working with:</h2>
 <p align="center">
 - Unreal engine cinematics
+
 - Environment
+
 - Automotive animation
+
 - Real time cloth simulations
-</p>
+
+
 <br>
 <img align='center' height='300' src='assets/UE_Logo.gif'>
 
