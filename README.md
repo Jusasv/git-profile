@@ -1,36 +1,25 @@
-<h1 align="center">Hi 👋, I am Justas Viškelis</h1>
-Unreal engine cinematics, environment, automotive creator, real time cloth simulations.
-
-<br>
-<h2 align="center">I am working with:</h2>
-<p align="center">
+<h1 align="left">Hi 👋, I am Justas Viškelis</h1>
+<h2 align="left">I am working with</h2>
+<p align="left">
 Unreal engine cinematics
-
+<p align="left">
 Environment
-
+<p align="left">
 Automotive animation
-
+<p align="left">
 Real time cloth simulations
 
-<br>
-<img align='center' height='300' src='assets/UE_Logo.gif'>
-
-<br>
-
-<br>
-<h2>Social Networks</h2>
-
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
-
-[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
-[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
-
-[1]: https://twitter.com/
-[2]: https://www.linkedin.com/in/
-[3]: https://www.instagram.com/
-[4]: https://telegram.me/
 
 
 <br>
+<h2 align="left">Social Networks</h2>
+
+[![LinkedIn][1.2]][1] [![Artstation][2.2]][2] [![Instagram][3.2]][3]
+
+[1.2]: assets/linkedin.png
+[2.2]: assets/artstation.png
+[3.2]: assets/gmail.png
+
+[1]: https://www.linkedin.com/in/justas-viskelis/
+[2]: https://www.artstation.com/jusasv
+[3]: justas.viskelis@gmail.com
